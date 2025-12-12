@@ -19,5 +19,4 @@
 # Modify hostname
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
 
-#更新软件库
- sed -i '$a src-git smpackage https://github.com/kenzok8/small-package' feeds.conf.default
+
